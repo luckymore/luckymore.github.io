@@ -925,9 +925,15 @@ a {
   color: #c8c8c8;
 }
 .article-title {
+  background-image: -webkit-gradient(linear, 0% 25%, 50% 100%, from(#ff0200), to(#00dde8));
+  background-image: -webkit-gradient(linear, 0% 25%, 50% 100%, from(#ff0200), to(#00dde8));
+  background-image: -webkit-gradient(linear, 0% 25%, 50% 100%, from(#ff0200), to(#00dde8));
+  background-image: -webkit-gradient(linear, 0% 25%, 50% 100%, from(#ff0200), to(#00dde8));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   color: #696969;
   margin-left: 0px;
-  font-weight: 300;
+  font-weight: 700;
   line-height: 35px;
   margin-bottom: 20px;
   font-size: 26px;
